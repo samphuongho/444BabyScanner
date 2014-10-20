@@ -1,5 +1,5 @@
-444BabyScanner
+BabyScanner
 ==============
 
-Project for CECS444
+Simple Scanner Project
 
